@@ -248,3 +248,7 @@ InnoDB辅助索引
 <pre>
 BitSet
 </pre>
+
+<pre>
+一致性Hash
+</pre>
